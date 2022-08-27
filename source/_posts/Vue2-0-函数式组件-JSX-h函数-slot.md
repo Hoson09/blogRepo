@@ -696,3 +696,5 @@ export const tableViewDataMixin = {
   },
 };
 ```
+
+# 具体 vue2 相关 demo 可以查看 [vue2_demo](https://github.com/Hoson09/vue2_demo)
