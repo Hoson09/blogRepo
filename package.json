@@ -23,6 +23,6 @@
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^0.0.3",
-    "vue": "^3.2.37"
+    "vue": "^3.2.38"
   }
 }
