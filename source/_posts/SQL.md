@@ -14,9 +14,9 @@ tags: sql
 ## 1.传统数据库的数据组织结构
 
 - 数据库（database）
-- 数据表（table）
-- 数据行（row）
-- 字段（field）
+  - 数据表（table）
+    - 数据行（row）
+      - 字段（field）
 
 ## 2.安装并配置 MySQL 数据
 
